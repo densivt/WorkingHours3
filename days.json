@@ -1,0 +1,10 @@
+{
+  "workingDays": [
+    {
+      "date": "07.03.2016",
+      "workingHours": 1.5
+    }
+  ],
+  "weekends": [],
+  "celebrateDays": []
+}
